@@ -7,6 +7,8 @@ The main goal of the project is to enhance accessibility, improve information sh
 - Students can check their fees using this website
 # Tech Stack
 Client: HTML, CSS, JAVASCRIPT
+# Deploy Link
+https://college-website-glb.netlify.app/
 # Feedback
 If you have any feedback, please reach out to us at aksrajput3453@gmail.com
 ## Connect with Me
